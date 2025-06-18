@@ -1,9 +1,9 @@
 Sort every Emby Live-TV channel by numeric `Number` and refresh the guide.
 
-• Works on Emby Server 4.8+ (tested 4.9.1.1 beta, June 2025).
-• Moves channels bottom → top (indices don’t shift under us).
-• Verifies the *entire* list; repeats (MAX_PASSES) until perfect.
-• Starts the “Refresh Guide” scheduled task so UI/clients update at once.
+• Works on Emby Server 4.8+ (tested 4.9.1.1 beta, June 2025).  
+• Moves channels bottom → top (indices don’t shift under us).  
+• Verifies the *entire* list; repeats (MAX_PASSES) until perfect.  
+• Starts the “Refresh Guide” scheduled task so UI/clients update at once.  
 
 In the "Config" secion, enter in the correct "SERVER" and "API_KEY" information. 
 
