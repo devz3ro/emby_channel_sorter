@@ -15,4 +15,4 @@ Your key is displayed under "emby_channel_sorter". Copy it and place it in the s
 
 Run the script: python3 emby_channel_sorter.py
 
-*Note* Please only run this if you want to sort by channel `Number` (you have tvg-chno defined in your M3U tuner).
+**Note** - Please only run this if you want to sort by channel `Number` (you have tvg-chno defined in your M3U tuner).
