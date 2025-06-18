@@ -7,7 +7,7 @@ Sort every Emby Live-TV channel by numeric `Number` and refresh the guide.
 
 In the "Config" secion, enter in the correct "SERVER" and "API_KEY" information. 
 
-If you don't have an "API_KEY"
+If you don't have an "API_KEY":
 
 Manage Emby Server → Advanced → Api Keys → New Api Key → emby_channel_sorter → Submit
 
