@@ -14,3 +14,5 @@ Manage Emby Server → Advanced → Api Keys → New Api Key → emby_channel_so
 Your key is displayed under "emby_channel_sorter". Copy it and place it in the script.
 
 Run the script: python3 emby_channel_sorter.py
+
+*Note* Please only run this if you want to sort by channel `Number` (you have tvg-chno defined in your M3U tuner).
